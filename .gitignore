@@ -1,0 +1,6 @@
+venv
+chromedriver
+geckodriver
+.pytest_cache
+.idea
+__pycache__
